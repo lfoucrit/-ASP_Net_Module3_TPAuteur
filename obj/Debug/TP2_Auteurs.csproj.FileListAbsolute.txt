@@ -1,0 +1,6 @@
+C:\Users\Utilisateur\source\repos\TP2_Auteurs\bin\Debug\TP2_Auteurs.exe.config
+C:\Users\Utilisateur\source\repos\TP2_Auteurs\bin\Debug\TP2_Auteurs.exe
+C:\Users\Utilisateur\source\repos\TP2_Auteurs\bin\Debug\TP2_Auteurs.pdb
+C:\Users\Utilisateur\source\repos\TP2_Auteurs\obj\Debug\TP2_Auteurs.csprojAssemblyReference.cache
+C:\Users\Utilisateur\source\repos\TP2_Auteurs\obj\Debug\TP2_Auteurs.exe
+C:\Users\Utilisateur\source\repos\TP2_Auteurs\obj\Debug\TP2_Auteurs.pdb
